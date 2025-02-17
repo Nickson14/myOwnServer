@@ -58,11 +58,13 @@ Ejecutar el instalador según la distribución:
 Debian/Ubuntu:
 
 chmod +x  myOwnserverD.sh
+
 ./myOwnServerD.sh
 
 RedHat/Rocky Linux:
 
 chmod +x myOwnServerR.sh
+
 ./myOwnServrR.sh
 
 Seleccionar el servicio que deseas instalar ingresando el número correspondiente en el menú.
